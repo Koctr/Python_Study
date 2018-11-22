@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Atm/.idea/Atm.iml" filepath="$PROJECT_DIR$/../Atm/.idea/Atm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CALC/.idea/CALC.iml" filepath="$PROJECT_DIR$/../CALC/.idea/CALC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Staff_info_manage/.idea/Staff_info_manage.iml" filepath="$PROJECT_DIR$/../Staff_info_manage/.idea/Staff_info_manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day5-atm/.idea/day5-atm.iml" filepath="$PROJECT_DIR$/../day5-atm/.idea/day5-atm.iml" />
+      <module fileurl="file://C:\Users\xintongwangluosuo\PycharmProjects\tasks\.idea\exam.iml" filepath="C:\Users\xintongwangluosuo\PycharmProjects\tasks\.idea\exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tasks.iml" filepath="$PROJECT_DIR$/.idea/tasks.iml" />
+    </modules>
+  </component>
+</project>

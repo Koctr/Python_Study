@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\ATM\.idea\ATM.iml" filepath="E:\ATM\.idea\ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Atm/.idea/Atm.iml" filepath="$PROJECT_DIR$/../Atm/.idea/Atm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Staff_info_manage/.idea/Staff_info_manage.iml" filepath="$PROJECT_DIR$/../Staff_info_manage/.idea/Staff_info_manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../func_and_often_module/.idea/func_and_often_module.iml" filepath="$PROJECT_DIR$/../func_and_often_module/.idea/func_and_often_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oop/.idea/oop.iml" filepath="$PROJECT_DIR$/../oop/.idea/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/school_management.iml" filepath="$PROJECT_DIR$/.idea/school_management.iml" />
+    </modules>
+  </component>
+</project>

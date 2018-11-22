@@ -1,0 +1,97 @@
+1. 实现思路
+系统按照现实中信用卡的使用方式实现，
+即：余额为正说明有欠款，额度为0无法进行除还款外的任何操作，
+当余额增加时，额度就会减少，反之亦然
+但是余额为负时，额度会超出初始设定值（没有考虑）
+
+账户文件存放在db/accounts目录，管理员文件存放在/db/manager目录，
+文件名即用户名，
+管理员文件中只有用户名和密码
+
+2. 流程图
+见atm_process.zip
+
+3. 作业说明
+3.1 运行方式
+账户登录：运行bin目录下的atm.py，用户名和密码（Alex/abc123）
+管理员登录：运行bin目录下的manage.py，用户名/密码（admin/abc123）
+购物功能：运行sbin目录下的shop.py，调用ATM接口以后，只能以当前账户一直登录，无法退出
+3.2 程序结构
+|   README                                 自述文件
+|   atm_process.zip                        流程图文件
+|
++---.idea
+|   |   Atm.iml
+|   |   misc.xml
+|   |   modules.xml
+|   |   workspace.xml
+|   |
+|   \---inspectionProfiles
+|           profiles_settings.xml
+|
++---bin
+|       atm.py                            ATM入口文件
+|       manage.py                         管理入口文件
+|       shop.py                           购物入口文件
+|       __init__.py
+|
++---conf
+|   |   settings.py                       系统配置文件
+|   |   __init__.py
+|   |
+|   \---__pycache__
+|           settings.cpython-35.pyc
+|           settings.cpython-36.pyc
+|           __init__.cpython-35.pyc
+|           __init__.cpython-36.pyc
+|
++---core
+|   |   account_manage.py                  账户文件的读取与写入
+|   |   auth.py                            验证账户和管理员登录
+|   |   check.py                           验证文件，包括验证时间格式、验证账户格式、验证登录装饰器
+|   |   db_handler.py                      实现数据库连接
+|   |   logger.py                          实现日志写入文件、输出到控制台功能
+|   |   main.py                            主文件，实现菜单、账户业务、管理功能
+|   |   transaction.py                     业务操作文件，实现账户业务操作
+|   |   __init__.py
+|   |
+|   \---__pycache__
+|           account_manage.cpython-36.pyc
+|           auth.cpython-36.pyc
+|           check.cpython-36.pyc
+|           db_handler.cpython-36.pyc
+|           logger.cpython-36.pyc
+|           main.cpython-35.pyc
+|           main.cpython-36.pyc
+|           transaction.cpython-36.pyc
+|           __init__.cpython-35.pyc
+|           __init__.cpython-36.pyc
+|
++---db
+|   |   __init__.py
+|   |
+|   +---accounts                           账户文件所在目录
+|   |       Alex.json
+|   |       Koctr.json
+|   |       __init__.py
+|   |
+|   +---manager                            管理员账户目录
+|   |       admin.json                     管理员账户
+|           __init__.py
+|
++---logs                                   日志文件目录
+|       access.log                         访问日志
+|       transactions.log                   业务日志
+|
++---shopping_mall                          购物功能目录
+|       products                           商品信息文件
+|       products.bak
+|       shopping.py                        实现购物功能
+|       __init__.py
+|
+\---test
+        decorator_test.py                  验证登录装饰器测试文件
+        __init__.py
+
+4. 问题集
+无

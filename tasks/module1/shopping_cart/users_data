@@ -1,0 +1,4 @@
+{'wangwu': {'items': [['iphone 7', 7300]], 'balance': 4700}}
+{'zhaoliu': {'items': [['iphone 7', 7300], ['Python Cookbook 3rd', 168], ['Spring in action', 120]], 'balance': 2412}}
+{'lisi': {'items': [['ipad', 3500], ['Spring in action', 120], ['Python Cookbook 3rd', 168]], 'balance': 1212}}
+{'zhangsan': {'items': [['iphone 7', 7300]], 'balance': 5000}}

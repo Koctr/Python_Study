@@ -1,0 +1,18 @@
+博客地址：http://www.cnblogs.com/koctr/
+学习笔记一——学习笔记八是第一模块的学习笔记
+python学习知识库，是编写程序过程中的问题及解决办法，
+地址：http://www.cnblogs.com/koctr/p/7257561.html
+
+程序实现过程：
+建立项目tasks，在tasks下建立目录module1，表示是模块一的程序，建立shopping_cart目录，表示是购物车程序
+三级菜单程序：
+    包含五个文件：
+    readme是程序说明
+    products是商品列表文件，商品与价格用“, ”分割（英文逗号和空格）
+    users_data是用户数据文件，一行是一个字典字符串，第一个key是用户名，值为嵌套的字典变量，items表示已购商品列表，
+    balance表示用户余额
+    shopping_cart.py是购物车程序文件
+    流程图_购物车程序.png是程序流程图
+
+    程序按照流程图实现
+    在Pycharm中运行程序，要求输入用户名和密码，跳过了密码验证环节，输入用户和任意密码都可以登录成功。

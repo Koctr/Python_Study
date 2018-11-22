@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Atm.iml" filepath="$PROJECT_DIR$/.idea/Atm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../func_and_often_module/.idea/func_and_often_module.iml" filepath="$PROJECT_DIR$/../func_and_often_module/.idea/func_and_often_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../net_socket/.idea/net_socket.iml" filepath="$PROJECT_DIR$/../net_socket/.idea/net_socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oop/.idea/oop.iml" filepath="$PROJECT_DIR$/../oop/.idea/oop.iml" />
+      <module fileurl="file://D:/dkymis_new/workspace/mis/python_utils/.idea/python_utils.iml" filepath="D:/dkymis_new/workspace/mis/python_utils/.idea/python_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../school_management/.idea/school_management.iml" filepath="$PROJECT_DIR$/../school_management/.idea/school_management.iml" />
+    </modules>
+  </component>
+</project>

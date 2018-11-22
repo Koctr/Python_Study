@@ -1,0 +1,28 @@
+博客地址：http://www.cnblogs.com/koctr/
+学习笔记一——学习笔记八是第一模块的学习笔记
+python学习知识库，是编写程序过程中的问题及解决办法，
+地址：http://www.cnblogs.com/koctr/p/7257561.html
+新增：
+Traceback (most recent call last):
+  File "C:/Users/xintongwangluosuo/PycharmProjects/tasks/module1/three_level_menu/three_leval_menu.py", line 20, in <module>
+    current_layer = layer[-1]
+KeyError: -1
+原因：
+代码如下
+layer = current_layer
+......
+current_layer = layer[-1]
+layer是一个列表，保存菜单当前层数据，直接赋值，导致layer成为一个字典，key=-1的值不存在
+应将代码改为layer.append(current_layer)
+
+程序实现过程：
+建立项目tasks，在tasks下建立目录module1，表示是模块一的程序，建立three_level_menu目录，表示是三级菜单程序
+三级菜单程序：
+    包含四个文件：
+    menu是菜单文件，保存了菜单字典文件，内容使用了alex老师博客中的数据
+    readme是程序说明
+    three_level_menu.py是三级菜单程序文件
+    流程图_三级菜单.png是程序流程图
+
+    程序按照流程图实现，设置了当前菜单（current_layer）和上一层菜单（layer），如果是顶层，设置layer为空列表
+    在Pycharm中运行程序

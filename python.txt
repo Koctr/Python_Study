@@ -1,0 +1,58 @@
+Calc：
+规则：
+1. 最里面的括号，左右是数字，中间是+-*/，运算符和数字交错出现，先*/后加减，除数不能为0
+2. 替换计算结果后，重复1
+算式规则：
+只能有数字、()+-*/，运算符不能连续，()不可以，运算符可以在左括号左边和右括号右边
+((...、))...可以，左右括号必须成对
+
+
+
+一键提取微信文章中的所有内容及图片
+一键将微信文章保存为图片
+
+字母开头，字母或数字结尾
+
+
+Triple double-quoted strings should be used for docstrings
+应该使用三个双引号作为文档注释
+
+>>> with open("login.txt","r+",ending="utf-8") as f:
+... f.readline()
+  File "<stdin>", line 2
+    f.readline()
+    ^
+IndentationError: expected an indented block
+
+原因：没有缩进，要在新行加空格或tab
+
+with open("users_info", "rw", encoding="utf-8") as f:
+    for line in f:
+        if "lisi" in line:
+            f.seek(f.tell()-len(line))
+            line="test 123 0"
+            f.write(line)
+OSError: telling position disabled by next() call
+
+TypeError: eval() arg 1 must be a string, bytes or code object
+python模块以及导入出现ImportError: No module named ‘xxx’问题
+
+PEP8代码风格错误
+expected 2 blank lines, found 0
+上面需要两行空白，找到0行，文件头部代码应在注释后面空两行
+
+Typo:In word
+错误拼写
+
+Traceback (most recent call last):
+  File "C:/Users/xintongwangluosuo/PycharmProjects/tasks/module1/shopping_cart/shopping_cart.py", line 33, in <module>
+    if (not salary.isdigit()) and (int(salary) <= 0):
+ValueError: invalid literal for int() with base 10: 'sl'
+
+
+python坑
+enumerate
+
+三次登陆问题是：
+1： 每次输入用户名和密码的话  ，如果每次我输入不同的用户名 ，那么不应该三次就结束
+2， 用户输入两次错误之后，第三次登陆成功，再次登陆的话 ，只要有一次是失败的，用户就锁定了，
