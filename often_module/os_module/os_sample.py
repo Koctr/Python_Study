@@ -4,6 +4,9 @@ __author__ = 'K0ctr'
 import os
 import time
 
+with open("text1", "w", encoding="utf-8") as f:
+    f.write("HelloWorld")
+
 """
 递归进行多层目录创建和删除
 """
@@ -73,3 +76,5 @@ print(time.ctime(os.path.getmtime(__file__)))
 create time
 """
 print(time.ctime(os.path.getctime(__file__)))
+
+os.remove("text1")
