@@ -325,7 +325,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4908504" visible="true" weight="0.32692307" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4908504" weight="0.32692307" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49967128" weight="0.32904148" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2981701" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
