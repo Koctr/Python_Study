@@ -5,6 +5,10 @@
     <orderEntry type="jdk" jdkName="Python 3.6.1 (E:\Python\Python36-32\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="func" />
+    <orderEntry type="module" module-name="auto_rename" />
+    <orderEntry type="module" module-name="auto_rename" />
+    <orderEntry type="module" module-name="auto_rename" />
+    <orderEntry type="module" module-name="school_management" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

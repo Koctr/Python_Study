@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Py_Basic.iml" filepath="$PROJECT_DIR$/.idea/Py_Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../auto_rename/.idea/auto_rename.iml" filepath="$PROJECT_DIR$/../auto_rename/.idea/auto_rename.iml" />
       <module fileurl="file://$PROJECT_DIR$/../func/.idea/func.iml" filepath="$PROJECT_DIR$/../func/.idea/func.iml" />
       <module fileurl="file://$PROJECT_DIR$/../often_module/.idea/often_module.iml" filepath="$PROJECT_DIR$/../often_module/.idea/often_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../school_management/.idea/school_management.iml" filepath="$PROJECT_DIR$/../school_management/.idea/school_management.iml" />
     </modules>
   </component>
 </project>
