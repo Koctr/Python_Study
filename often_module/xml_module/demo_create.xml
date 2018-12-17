@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<papa>
+    <TianYuehua bobo="E">
+        <age>36</age>
+    </TianYuehua>
+    <ZhouZhengshu bobo="B">
+        <age>22</age>
+    </ZhouZhengshu>
+    <HanYan bobo="B-">
+        <age>22</age>
+    </HanYan>
+</papa>
