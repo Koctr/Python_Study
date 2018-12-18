@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24e4acdd-9d9b-48fc-8707-50c5ad750530" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../often_module/xml_module/demo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../often_module/xml_module/xml_create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../often_module/xml_module/xml_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../often_module/xml_module/xml_update.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../often_module/.idea/often_module.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../often_module/.idea/often_module.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auto_rename/.idea/auto_rename.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../auto_rename/.idea/auto_rename.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auto_rename/bin/auto_rename.py" beforeDir="false" afterPath="$PROJECT_DIR$/../auto_rename/bin/auto_rename.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +41,17 @@
     <SUITE FILE_PATH="coverage/Py_Basic$xml_handler.coverage" NAME="xml_handler Coverage Results" MODIFIED="1545047720653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../often_module/xml_module" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="auto_rename.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../auto_rename/bin/auto_rename.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,6 +105,7 @@
         <option value="$PROJECT_DIR$/../often_module/xml_module/xml_update.py" />
         <option value="$PROJECT_DIR$/../often_module/xml_module/xml_create.py" />
         <option value="$PROJECT_DIR$/../often_module/xml_module/demo_create.xml" />
+        <option value="$PROJECT_DIR$/../auto_rename/bin/auto_rename.py" />
       </list>
     </option>
   </component>
@@ -122,9 +130,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Py_Basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_rename" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_rename" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="func" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="func" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="often_module" type="462c0819:PsiDirectoryNode" />
@@ -138,7 +169,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,6 +347,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5105125" side_tool="true" visible="true" weight="0.3257143" />
@@ -325,7 +356,7 @@
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48948753" weight="0.3257143" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49967128" weight="0.32904148" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30749014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30749014" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -349,7 +380,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sys_module.py" />
     <entry file="file://$PROJECT_DIR$/flag.png" />
     <entry file="file://$PROJECT_DIR$/../func/higher_order_func.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -446,13 +476,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-561302213/sys.py" />
-    <entry file="file://$PROJECT_DIR$/../auto_rename/bin/auto_rename.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../auto_rename/core/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -513,6 +536,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../func/reversed_func.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auto_rename/bin/auto_rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
         </state>
       </provider>
     </entry>
