@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24e4acdd-9d9b-48fc-8707-50c5ad750530" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../auto_rename/.idea/auto_rename.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../auto_rename/.idea/auto_rename.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../auto_rename/bin/auto_rename.py" beforeDir="false" afterPath="$PROJECT_DIR$/../auto_rename/bin/auto_rename.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auto_rename/core/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../auto_rename/core/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,10 +18,12 @@
     <SUITE FILE_PATH="coverage/Py_Basic$import_nature.coverage" NAME="import_nature Coverage Results" MODIFIED="1542202380328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../often_module/module_import" />
     <SUITE FILE_PATH="coverage/Py_Basic$higher_order_func.coverage" NAME="higher_order_func Coverage Results" MODIFIED="1536586822844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func" />
     <SUITE FILE_PATH="coverage/Py_Basic$for_study.coverage" NAME="for_study Coverage Results" MODIFIED="1530533665112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Py_Basic$main.coverage" NAME="main Coverage Results" MODIFIED="1545221571261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../auto_rename/core" />
     <SUITE FILE_PATH="coverage/Py_Basic$random_simple__1_.coverage" NAME="random_simple (1) Coverage Results" MODIFIED="1542788239875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../often_module" />
     <SUITE FILE_PATH="coverage/Py_Basic$xml_create.coverage" NAME="xml_create Coverage Results" MODIFIED="1545048906001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../often_module/xml_module" />
     <SUITE FILE_PATH="coverage/Py_Basic$xml_update.coverage" NAME="xml_update Coverage Results" MODIFIED="1545048330083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../often_module/xml_module" />
     <SUITE FILE_PATH="coverage/Py_Basic$bytes_file_rw.coverage" NAME="bytes_file_rw Coverage Results" MODIFIED="1535343646109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Py_Basic$auto_rename.coverage" NAME="auto_rename Coverage Results" MODIFIED="1545221580929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../auto_rename/bin" />
     <SUITE FILE_PATH="coverage/Py_Basic$bool_tools.coverage" NAME="bool_tools Coverage Results" MODIFIED="1539403977335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/Py_Basic$sys_example.coverage" NAME="sys_example Coverage Results" MODIFIED="1543325490327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../often_module" />
     <SUITE FILE_PATH="coverage/Py_Basic$any.coverage" NAME="any Coverage Results" MODIFIED="1539403802627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
@@ -41,12 +42,36 @@
     <SUITE FILE_PATH="coverage/Py_Basic$xml_handler.coverage" NAME="xml_handler Coverage Results" MODIFIED="1545047720653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../often_module/xml_module" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="auto_rename.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="auto_rename.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../auto_rename/bin/auto_rename.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#41#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../auto_rename/core/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+              <folding>
+                <element signature="e#40#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="os_sample.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../often_module/os_module/os_sample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -98,7 +123,6 @@
         <option value="$PROJECT_DIR$/../often_module/shutil_module/zipfile_module.py" />
         <option value="$PROJECT_DIR$/../auto_rename/conf/settings.py" />
         <option value="$PROJECT_DIR$/../auto_rename/bin/Auto_Rename.py" />
-        <option value="$PROJECT_DIR$/../auto_rename/core/main.py" />
         <option value="$PROJECT_DIR$/../often_module/hashlib_sample.py" />
         <option value="$PROJECT_DIR$/../often_module/xml_module/demo.xml" />
         <option value="$PROJECT_DIR$/../often_module/xml_module/xml_handler.py" />
@@ -106,6 +130,7 @@
         <option value="$PROJECT_DIR$/../often_module/xml_module/xml_create.py" />
         <option value="$PROJECT_DIR$/../often_module/xml_module/demo_create.xml" />
         <option value="$PROJECT_DIR$/../auto_rename/bin/auto_rename.py" />
+        <option value="$PROJECT_DIR$/../auto_rename/core/main.py" />
       </list>
     </option>
   </component>
@@ -149,6 +174,11 @@
             </path>
             <path>
               <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_rename" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="func" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -159,6 +189,11 @@
             <path>
               <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="often_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="often_module" type="462c0819:PsiDirectoryNode" />
+              <item name="os_module" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Py_Basic" type="b2602c69:ProjectViewProjectNode" />
@@ -197,40 +232,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.xml_create">
-    <configuration name="hashlib_sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="often_module" />
+  <component name="RunManager" selected="Python.auto_rename">
+    <configuration name="auto_rename" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="auto_rename" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../often_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../auto_rename/bin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../often_module/hashlib_sample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../auto_rename/bin/auto_rename.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="os_sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="often_module" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="auto_rename" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../often_module/os_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../auto_rename/core" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../often_module/os_module/os_sample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../auto_rename/core/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,19 +351,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.os_sample" />
-      <item itemvalue="Python.hashlib_sample" />
       <item itemvalue="Python.xml_handler" />
       <item itemvalue="Python.xml_update" />
       <item itemvalue="Python.xml_create" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.auto_rename" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.auto_rename" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.xml_create" />
         <item itemvalue="Python.xml_update" />
         <item itemvalue="Python.xml_handler" />
-        <item itemvalue="Python.hashlib_sample" />
-        <item itemvalue="Python.os_sample" />
       </list>
     </recent_temporary>
   </component>
@@ -350,13 +385,13 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5105125" side_tool="true" visible="true" weight="0.3257143" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.500657" side_tool="true" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48948753" weight="0.3257143" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49967128" weight="0.32904148" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30749014" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48883048" weight="0.3257143" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49934298" visible="true" weight="0.32857144" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30749014" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -396,7 +431,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../often_module/generator/producer_consumer.py" />
-    <entry file="file://$PROJECT_DIR$/os_module.py" />
     <entry file="file://$PROJECT_DIR$/../func/built-in_func/all.py" />
     <entry file="file://$PROJECT_DIR$/../func/built-in_func/any.py" />
     <entry file="file://$PROJECT_DIR$/../func/built-in_func/method_tools.py" />
@@ -445,13 +479,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://E:/Python/Python36-32/Lib/genericpath.py" />
-    <entry file="file://$PROJECT_DIR$/../often_module/os_module/os_sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../often_module/shutil_module/shutil_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -476,13 +503,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-561302213/sys.py" />
-    <entry file="file://$PROJECT_DIR$/../auto_rename/core/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../auto_rename/conf/settings.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -542,10 +562,35 @@
     <entry file="file://$PROJECT_DIR$/../func/reversed_func.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/os_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../often_module/os_module/os_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../auto_rename/bin/auto_rename.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#41#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auto_rename/core/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <element signature="e#40#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
