@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24e4acdd-9d9b-48fc-8707-50c5ad750530" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../auto_rename/bin/auto_rename.py" beforeDir="false" afterPath="$PROJECT_DIR$/../auto_rename/bin/auto_rename.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../auto_rename/core/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../auto_rename/core/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +45,8 @@
       <file leaf-file-name="auto_rename.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../auto_rename/bin/auto_rename.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="171">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#41#50#0" expanded="true" />
               </folding>
@@ -58,8 +57,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../auto_rename/core/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            <state relative-caret-position="265">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding>
                 <element signature="e#40#49#0" expanded="true" />
               </folding>
@@ -70,8 +69,8 @@
       <file leaf-file-name="os_sample.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../often_module/os_module/os_sample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+            <state relative-caret-position="1292">
+              <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -385,12 +384,12 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.500657" side_tool="true" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50131404" side_tool="true" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48883048" weight="0.3257143" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49934298" visible="true" weight="0.32857144" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49868593" visible="true" weight="0.32857144" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30749014" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" />
@@ -569,15 +568,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../often_module/os_module/os_sample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        <state relative-caret-position="1292">
+          <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../auto_rename/bin/auto_rename.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="171">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#41#50#0" expanded="true" />
           </folding>
@@ -586,8 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../auto_rename/core/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        <state relative-caret-position="265">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="e#40#49#0" expanded="true" />
           </folding>
