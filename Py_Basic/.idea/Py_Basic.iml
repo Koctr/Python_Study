@@ -6,6 +6,7 @@
     <orderEntry type="module" module-name="func" />
     <orderEntry type="module" module-name="auto_rename" />
     <orderEntry type="module" module-name="school_management" />
+    <orderEntry type="module" module-name="Sql_Injection_Script" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
