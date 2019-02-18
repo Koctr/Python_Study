@@ -4,7 +4,6 @@
 import os
 import sys
 import time
-from typing import List
 
 """
 程序规则：
@@ -68,7 +67,7 @@ def check_items(file_path):
             os.rename(file_path, file_new_name)
     elif len(str_list) == 4:
         set_date_and_content_file_name(str_list, file_path, path_and_name, name_and_ext_list)
-    else:
+    elif len(str_list) == 1:
         set_default_file_name(file_path, path_and_name)
 
 
@@ -85,7 +84,6 @@ def set_date_and_content_file_name(str_list, file_path, path_and_name, name_and_
         time.strptime(file_time, '%Y-%m-%d')
         is_time = True
     except ValueError:
-        set_default_file_name(file_path, path_and_name)
         is_time = False
     if is_time:
         file_new_name = os.path.join(path_and_name[0],

@@ -9,6 +9,8 @@
     <orderEntry type="module" module-name="Py_Basic" />
     <orderEntry type="module" module-name="func" />
     <orderEntry type="module" module-name="often_module" />
+    <orderEntry type="module" module-name="muggle_oa" />
+    <orderEntry type="module" module-name="auto_rename" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
