@@ -11,50 +11,51 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/simple_ftp$vars_func.coverage" NAME="vars_func Coverage Results" MODIFIED="1540178917236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$tuple_func.coverage" NAME="tuple_func Coverage Results" MODIFIED="1540178914715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$christmas_tree2.coverage" NAME="christmas_tree2 Coverage Results" MODIFIED="1550568267643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../muggle_oa" />
     <SUITE FILE_PATH="coverage/simple_ftp$filter_func.coverage" NAME="filter_func Coverage Results" MODIFIED="1540175726240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$id_func.coverage" NAME="id_func Coverage Results" MODIFIED="1540180789098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$bytearray_func.coverage" NAME="bytearray_func Coverage Results" MODIFIED="1540193055997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$bin_func.coverage" NAME="bin_func Coverage Results" MODIFIED="1539748473947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$locals_func.coverage" NAME="locals_func Coverage Results" MODIFIED="1539761615553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$__import___func.coverage" NAME="__import___func Coverage Results" MODIFIED="1540179466572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$min_func.coverage" NAME="min_func Coverage Results" MODIFIED="1539762155041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$bool_tools.coverage" NAME="bool_tools Coverage Results" MODIFIED="1539748199401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$ascii_func.coverage" NAME="ascii_func Coverage Results" MODIFIED="1539748407634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$zip_func.coverage" NAME="zip_func Coverage Results" MODIFIED="1540179066352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$any_func.coverage" NAME="any_func Coverage Results" MODIFIED="1539748308380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$christmas_tree.coverage" NAME="christmas_tree Coverage Results" MODIFIED="1550452827158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../muggle_oa" />
     <SUITE FILE_PATH="coverage/simple_ftp$ord_func.coverage" NAME="ord_func Coverage Results" MODIFIED="1540179795471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$sequence_tools.coverage" NAME="sequence_tools Coverage Results" MODIFIED="1539748139569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$dir_func.coverage" NAME="dir_func Coverage Results" MODIFIED="1539762639518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$hash_func.coverage" NAME="hash_func Coverage Results" MODIFIED="1540180796022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$map_func.coverage" NAME="map_func Coverage Results" MODIFIED="1540193556675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$sum_func.coverage" NAME="sum_func Coverage Results" MODIFIED="1540178761153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$globals_func.coverage" NAME="globals_func Coverage Results" MODIFIED="1540175242977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$complex_func.coverage" NAME="complex_func Coverage Results" MODIFIED="1540192451592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$help_func.coverage" NAME="help_func Coverage Results" MODIFIED="1539760500148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$producer_consumer.coverage" NAME="producer_consumer Coverage Results" MODIFIED="1539056474381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../often_module/generator" />
-    <SUITE FILE_PATH="coverage/simple_ftp$eval_func.coverage" NAME="eval_func Coverage Results" MODIFIED="1539762664769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$sorted_func.coverage" NAME="sorted_func Coverage Results" MODIFIED="1540178666761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$slice_func.coverage" NAME="slice_func Coverage Results" MODIFIED="1540177793459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$float_func.coverage" NAME="float_func Coverage Results" MODIFIED="1540192489928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$mxa_func.coverage" NAME="mxa_func Coverage Results" MODIFIED="1539762105046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1536828238597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func" />
     <SUITE FILE_PATH="coverage/simple_ftp$divmod_func.coverage" NAME="divmod_func Coverage Results" MODIFIED="1539760297637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$set_study.coverage" NAME="set_study Coverage Results" MODIFIED="1534233217387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Py_Basic" />
-    <SUITE FILE_PATH="coverage/simple_ftp$hex_func.coverage" NAME="hex_func Coverage Results" MODIFIED="1539760910672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$dict_study.coverage" NAME="dict_study Coverage Results" MODIFIED="1534133100555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Py_Basic" />
     <SUITE FILE_PATH="coverage/simple_ftp$exec_func.coverage" NAME="exec_func Coverage Results" MODIFIED="1539762559451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$bytes_func.coverage" NAME="bytes_func Coverage Results" MODIFIED="1539748541762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$round_func.coverage" NAME="round_func Coverage Results" MODIFIED="1540176338485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$chr_func.coverage" NAME="chr_func Coverage Results" MODIFIED="1539748587875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$oct_func.coverage" NAME="oct_func Coverage Results" MODIFIED="1540173965075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$Unittests_in_locals_func_py.coverage" NAME="Unittests in locals_func.py Coverage Results" MODIFIED="1539761567071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$tuple_func.coverage" NAME="tuple_func Coverage Results" MODIFIED="1540178914715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$bytearray_func.coverage" NAME="bytearray_func Coverage Results" MODIFIED="1540193055997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$bin_func.coverage" NAME="bin_func Coverage Results" MODIFIED="1539748473947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$ascii_func.coverage" NAME="ascii_func Coverage Results" MODIFIED="1539748407634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$zip_func.coverage" NAME="zip_func Coverage Results" MODIFIED="1540179066352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$any_func.coverage" NAME="any_func Coverage Results" MODIFIED="1539748308380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$christmas_tree.coverage" NAME="christmas_tree Coverage Results" MODIFIED="1550567281227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../muggle_oa" />
+    <SUITE FILE_PATH="coverage/simple_ftp$sequence_tools.coverage" NAME="sequence_tools Coverage Results" MODIFIED="1539748139569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$hash_func.coverage" NAME="hash_func Coverage Results" MODIFIED="1540180796022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$sum_func.coverage" NAME="sum_func Coverage Results" MODIFIED="1540178761153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$globals_func.coverage" NAME="globals_func Coverage Results" MODIFIED="1540175242977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$help_func.coverage" NAME="help_func Coverage Results" MODIFIED="1539760500148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$eval_func.coverage" NAME="eval_func Coverage Results" MODIFIED="1539762664769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$mxa_func.coverage" NAME="mxa_func Coverage Results" MODIFIED="1539762105046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$hex_func.coverage" NAME="hex_func Coverage Results" MODIFIED="1539760910672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
+    <SUITE FILE_PATH="coverage/simple_ftp$bytes_func.coverage" NAME="bytes_func Coverage Results" MODIFIED="1539748541762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$enumerate_func.coverage" NAME="enumerate_func Coverage Results" MODIFIED="1540175651615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$os_module.coverage" NAME="os_module Coverage Results" MODIFIED="1534132760834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Py_Basic" />
     <SUITE FILE_PATH="coverage/simple_ftp$bool_func.coverage" NAME="bool_func Coverage Results" MODIFIED="1539748363869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$chr_func.coverage" NAME="chr_func Coverage Results" MODIFIED="1539748587875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$repr_func.coverage" NAME="repr_func Coverage Results" MODIFIED="1540175426724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$oct_func.coverage" NAME="oct_func Coverage Results" MODIFIED="1540173965075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$len_func.coverage" NAME="len_func Coverage Results" MODIFIED="1539761150675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
-    <SUITE FILE_PATH="coverage/simple_ftp$Unittests_in_locals_func_py.coverage" NAME="Unittests in locals_func.py Coverage Results" MODIFIED="1539761567071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$iterator.coverage" NAME="iterator Coverage Results" MODIFIED="1539228016894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func" />
     <SUITE FILE_PATH="coverage/simple_ftp$all_func.coverage" NAME="all_func Coverage Results" MODIFIED="1539748318968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func/built-in_func" />
     <SUITE FILE_PATH="coverage/simple_ftp$reversed_func.coverage" NAME="reversed_func Coverage Results" MODIFIED="1540175561632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../func" />
@@ -73,7 +74,18 @@
     <favorites_list name="simple_ftp" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="christmas_tree2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../muggle_oa/christmas_tree2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../Py_Basic/os_module.py" />
         <option value="$PROJECT_DIR$/../Py_Basic/dict_study.py" />
         <option value="$PROJECT_DIR$/../Py_Basic/set_study.py" />
         <option value="$PROJECT_DIR$/../func/decorator.py" />
@@ -136,6 +147,7 @@
         <option value="$PROJECT_DIR$/../func/built-in_func/__import___func.py" />
         <option value="$PROJECT_DIR$/../muggle_oa/christmas_tree.py" />
         <option value="$PROJECT_DIR$/../auto_rename/core/main.py" />
+        <option value="$PROJECT_DIR$/../muggle_oa/christmas_tree2.py" />
       </list>
     </option>
   </component>
@@ -166,6 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -175,45 +188,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="auto_rename" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_ftp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auto_rename" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_ftp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auto_rename" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bin" />
+              <option name="myItemId" value="muggle_oa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,26 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.christmas_tree">
-    <configuration default="false" name="complex_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../func/built-in_func" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="func" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../func/built-in_func/complex_func.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.christmas_tree2">
     <configuration default="false" name="float_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,6 +290,25 @@
       <module name="muggle_oa" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../muggle_oa/christmas_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="christmas_tree2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../muggle_oa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="muggle_oa" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../muggle_oa/christmas_tree2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -483,19 +463,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.complex_func" />
-      <item index="1" class="java.lang.String" itemvalue="Python.float_func" />
-      <item index="2" class="java.lang.String" itemvalue="Python.bytearray_func" />
-      <item index="3" class="java.lang.String" itemvalue="Python.map_func" />
-      <item index="4" class="java.lang.String" itemvalue="Python.christmas_tree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.float_func" />
+      <item index="1" class="java.lang.String" itemvalue="Python.bytearray_func" />
+      <item index="2" class="java.lang.String" itemvalue="Python.map_func" />
+      <item index="3" class="java.lang.String" itemvalue="Python.christmas_tree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.christmas_tree2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.christmas_tree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.map_func" />
-        <item index="2" class="java.lang.String" itemvalue="Python.bytearray_func" />
-        <item index="3" class="java.lang.String" itemvalue="Python.float_func" />
-        <item index="4" class="java.lang.String" itemvalue="Python.complex_func" />
+        <item index="0" class="java.lang.String" itemvalue="Python.christmas_tree2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.christmas_tree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.map_func" />
+        <item index="3" class="java.lang.String" itemvalue="Python.bytearray_func" />
+        <item index="4" class="java.lang.String" itemvalue="Python.float_func" />
       </list>
     </recent_temporary>
   </component>
@@ -528,25 +508,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31543118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31089258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -563,13 +544,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../func/generator/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../func/decorator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
@@ -878,7 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
           <caret line="4664" column="8" lean-forward="false" selection-start-line="4664" selection-start-column="8" selection-end-line="4664" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,7 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -902,9 +874,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="796">
           <caret line="90" column="43" lean-forward="true" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
-          <folding>
-            <element signature="e#40#49#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../muggle_oa/christmas_tree2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
