@@ -6,7 +6,7 @@
 line = 6
 # 叶子行数
 leaf_line = 4
-# 最大叶子树
+# 最大叶子数
 max_leaf = 7
 # 叶子字符
 leaf = "*"
