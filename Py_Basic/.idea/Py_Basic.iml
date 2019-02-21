@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="auto_rename" />
     <orderEntry type="module" module-name="school_management" />
     <orderEntry type="module" module-name="Sql_Injection_Script" />
+    <orderEntry type="module" module-name="muggle_oa" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
