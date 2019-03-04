@@ -28,11 +28,11 @@ def run():
     :return:
     """
     argv = sys.argv
-    if len(argv) != 2:
+    if len(argv) < 2:
         print("程序调用方式不正确，输入格式为：'python auto_rename.py 目录或文件的路径'。")
     else:
         # 使用命令行传参时，最后不能是\，否则无法识别为目录
-        renames(argv[1])
+        renames(argv[1].strip())
 
 
 def renames(path):
