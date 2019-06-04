@@ -10,6 +10,7 @@
     <orderEntry type="module" module-name="Sql_Injection_Script" />
     <orderEntry type="module" module-name="muggle_oa" />
     <orderEntry type="module" module-name="web_security" />
+    <orderEntry type="module" module-name="security_py_scripts" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
