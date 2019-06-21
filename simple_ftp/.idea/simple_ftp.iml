@@ -11,6 +11,8 @@
     <orderEntry type="module" module-name="often_module" />
     <orderEntry type="module" module-name="muggle_oa" />
     <orderEntry type="module" module-name="auto_rename" />
+    <orderEntry type="module" module-name="security_py_scripts" />
+    <orderEntry type="module" module-name="office_auto_py" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
