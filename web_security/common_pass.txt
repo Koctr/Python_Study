@@ -1,7 +1,0 @@
-oracle
-pass
-password
-password!
-password1
-print
-qwerty

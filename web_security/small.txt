@@ -1,7 +1,0 @@
-active
-adm
-admin
-admin_
-admin_login
-admin_logon
-administrat
