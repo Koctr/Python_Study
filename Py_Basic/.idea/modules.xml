@@ -7,10 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/../auto_rename/.idea/auto_rename.iml" filepath="$PROJECT_DIR$/../auto_rename/.idea/auto_rename.iml" />
       <module fileurl="file://$PROJECT_DIR$/../func/.idea/func.iml" filepath="$PROJECT_DIR$/../func/.idea/func.iml" />
       <module fileurl="file://$PROJECT_DIR$/../muggle_oa/.idea/muggle_oa.iml" filepath="$PROJECT_DIR$/../muggle_oa/.idea/muggle_oa.iml" />
+      <module fileurl="file://E:/office_auto_py/.idea/office_auto_py.iml" filepath="E:/office_auto_py/.idea/office_auto_py.iml" />
       <module fileurl="file://$PROJECT_DIR$/../often_module/.idea/often_module.iml" filepath="$PROJECT_DIR$/../often_module/.idea/often_module.iml" />
       <module fileurl="file://$PROJECT_DIR$/../school_management/.idea/school_management.iml" filepath="$PROJECT_DIR$/../school_management/.idea/school_management.iml" />
-      <module fileurl="file://E:/security_py_scripts/.idea/security_py_scripts.iml" filepath="E:/security_py_scripts/.idea/security_py_scripts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../web_security/.idea/web_security.iml" filepath="$PROJECT_DIR$/../web_security/.idea/web_security.iml" />
     </modules>
   </component>
 </project>
