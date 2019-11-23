@@ -12,6 +12,7 @@
     <orderEntry type="module" module-name="security_py_scripts" />
     <orderEntry type="module" module-name="office_auto_py" />
     <orderEntry type="module" module-name="office_auto_py" />
+    <orderEntry type="module" module-name="security_py_scripts" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

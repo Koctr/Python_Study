@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="E:/office_auto_py" vcs="Git" />
+    <mapping directory="E:/security_py_scripts" vcs="Git" />
   </component>
 </project>
